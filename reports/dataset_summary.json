@@ -1,0 +1,26 @@
+{
+  "rows": 10000,
+  "features": [
+    "Type",
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]"
+  ],
+  "target_distribution": {
+    "0": 9661,
+    "1": 339
+  },
+  "train_rows": 8000,
+  "test_rows": 2000,
+  "excluded_columns": [
+    "UDI",
+    "Product ID",
+    "TWF",
+    "HDF",
+    "PWF",
+    "OSF",
+    "RNF"
+  ]
+}
