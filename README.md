@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E.svg)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0%2B-EB5424.svg)](https://xgboost.ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 An end-to-end industrial machine-learning and process optimization prototype developed using the **AI4I 2020 Predictive Maintenance Dataset**. The system predicts machine failure risks from operating sensor telemetry, detects atypical statistical anomalies, compares 8 classification models, and provides physics-informed condition-based maintenance guidance.
 
